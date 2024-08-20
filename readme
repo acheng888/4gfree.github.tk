@@ -1,0 +1,6 @@
+Để tiến hành cài đặt,các bạn copy lệnh sau 
+dán vào termux rồi bấm enter nó sẽ tự động
+tải và cài nhé.
+bash <(curl -fsSL https://raw.githubusercontent.com/acheng888/4gfree.github.tk/main/inst.sh)
+Khi cập nhật apt nó hiện thông báo thông
+báo,các bạn cứ chọn y hết nhé.
