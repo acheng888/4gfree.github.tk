@@ -1,5 +1,6 @@
 clear
 termux-setup-storage
+clear
 echo "Đang cài đặt vui lòng chờ"
 apt update && apt upgrade -y
 clear
