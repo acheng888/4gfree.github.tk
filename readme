@@ -2,5 +2,5 @@
 dán vào termux rồi bấm enter nó sẽ tự động
 tải và cài nhé.
 bash <(curl -fsSL https://raw.githubusercontent.com/acheng888/4gfree.github.tk/main/inst.sh)
-Khi cập nhật apt nó hiện thông báo thông
-báo,các bạn cứ chọn y hết nhé.
+Khi đang chạy nó hiện thông báo yêu cầu cấp quyền bộ nhớ thì các bạn bấm cho phép nha
+còn khi nó yêu cầu xác nhận các bạn cứ chọn y hết nhé.
