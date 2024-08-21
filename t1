@@ -1,0 +1,4 @@
+echo " "
+echo -e "\033[1;31m \t\t      4G Viettel 0Đ\033[0m"
+echo -e "\033[1;33m Để dừng tool các bạn bấm CTRL+c \n   Để tắt nhanh nekobox các bạn gõ lệnh nek!\033[0m"
+echo " " 
